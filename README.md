@@ -1,7 +1,7 @@
 # BetBrainXmlFeed
 BetBrain.com XML Data Feed
 
-This PHP script uses host's cron job function to get xml feed from betbrain.com and parses, filters and formats the data in a specific structure and updates into the database.
+This PHP script uses host's cron job function to get xml feed from betbrain.com and parses, filters and formats the data in a specific structure and updates into the database. Developed tested in PHP5.
 
 Instructions:
 1. Edit the rdb.php file and set your database credentials properly.
